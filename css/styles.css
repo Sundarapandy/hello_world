@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+
+ }
+
+ hr{
+     border-style: none;
+     border-width: 5px;
+     border-top-style: dotted;
+     height: 2px;
+     width: 50px;
+     background-color: ;    }
+
+ img {
+border-radius: 50%;
+}
+
+h1{
+    color: chocolate;
+}
+
+h3{
+    color: dimgrey;
+}

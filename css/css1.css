@@ -1,0 +1,127 @@
+.cloud1{position: absolute;
+    left: 70%;
+
+}
+
+.cloud2{
+    position: absolute;
+    top: 44%;
+    left: 15%;
+}
+
+.mountain{
+    position: relative;
+    margin-top: 20%;
+    margin-left: 23%;
+}
+
+.profile{
+    background-color: #b3ffff
+}
+
+.h2{
+    display: inline;
+    position: absolute;
+    left: 40%;
+    top: 23%;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: xx-large;
+    color:#66bfbf
+}
+
+.h1 {
+    color:#66bfbf
+}
+.h21 {
+    color:#66bfbf;
+    text-align: center;
+}
+
+    hr {
+        border:none;
+        border-top:1px dashed darkgray;
+        color:#fff;
+        background-color:#fff;
+        height:1px;
+        width:50%;
+        margin-bottom: 1%;
+        margin-top: 1%;
+      }
+
+    .para{
+        text-align: center;
+        margin-left: 30%;
+        margin-right: 30%;
+        color:#40514e;
+        font-size: medium;
+    }
+.profile-details{
+    text-align: center;
+
+}
+
+
+.skill-row{
+    padding-bottom:2%;
+    padding-top:2%
+
+
+}
+
+.d1{
+    border-radius: 80%;
+    width: 15%;
+    display: inline;
+    margin-left: 18%;
+}
+.d1t{
+    display: inline;
+    position: absolute;
+    margin-left: 32px;
+}
+
+.d2t{
+    display: inline;
+    position: absolute;
+    margin-right: 27%;
+    left: 20%;
+}
+
+
+.p3{
+    margin-right: 19%;
+    margin-right: 19%;
+    font-family: inherit;
+    color: inherit;
+}
+
+
+
+.contact-me{
+    text-align: center;
+    padding-bottom:5%;
+}
+
+
+.btn {
+    background-color: #66bfbf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding-bottom: 1%;
+  }
+
+  .bottom-container{
+    background-color: #66bfbf;
+    text-align:center;
+    color:#11999E
+  }
+
+
+  .footer-link{
+    padding-right: 3%;
+  }
